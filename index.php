@@ -2,7 +2,7 @@
 <html>
 <body>
 
-Welcome <?php echo $_POST["name"]; ?> <br>
+Wilcome <?php echo $_POST["name"]; ?> <br>
 Your ID number is: <?php echo $_POST["IDnum"]; ?><br>
 
 
